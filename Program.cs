@@ -6,7 +6,8 @@ namespace MyDockerApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Poland!");
+	    Console.WriteLine("Bye Poland!");
         }
     }
 }
